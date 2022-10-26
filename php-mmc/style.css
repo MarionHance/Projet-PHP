@@ -1,0 +1,36 @@
+
+nav {
+    background-color: rgb(252, 217, 184);
+    text-decoration: white;
+    border: rgb(107, 82, 51) solid 5px;
+    border-radius: 20px;
+}
+
+.container {
+    background-color: rgba(239, 254, 255, 0.959);
+   
+}
+
+h1 {
+    color: rgb(97, 74, 46);
+    margin-left: 500px;
+    margin-top: 3px;
+}
+
+h4 {
+    color: rgb(105, 81, 52);
+    margin-left: 425px;
+    margin-top: 3px;
+}
+
+.card {
+    background-color: rgb(252, 217, 184);
+    border: rgb(107, 82, 51) solid 5px;
+    border-radius: 20px;
+  
+
+
+    
+}
+
+
